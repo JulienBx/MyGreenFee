@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Green Fee</string>
+    <string name="option_get_place">Position courante</string>
+    <string name="title_activity_maps">Carte</string>
+    <string name="pick_place">Choisir position</string>
+    <string name="default_info_snippet">Posiion courante introuvable, car les permissions sont insuffisants</string>
+    <string name="default_info_title">Carte My Green Fee</string>
+</resources>
